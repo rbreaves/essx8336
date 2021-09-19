@@ -6,6 +6,7 @@ Tested on ubuntu, astra linux, alt linux.
 # install deb on Ubuntu:
 Link to download:
 https://drive.google.com/drive/folders/1GJiZXnPsrxm78CJIA8dQC1UdtuDn77j0?usp=sharing
+
 Just install the packages *.deb
 
 Install depends:
