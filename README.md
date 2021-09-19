@@ -1,7 +1,12 @@
 sof-glk-es8336-ssp0.tplg# essx8336
 
 Kernel with support for the essx8336 codec.
+
 Tested on ubuntu, astra linux, alt linux.
+
+source files were provided to me Everest and ip3-tech
+
+
 
 # install deb on Ubuntu:
 Link to download:
