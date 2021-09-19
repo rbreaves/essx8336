@@ -22,10 +22,17 @@ $ cp sof-glk-es8336-ssp0.tplg /lib/firmware/intel/sof-tplg/
 
 # install other:
 Installation into "rpm" distributions can be done by unpacking "deb" into directories.
+
 Then:
+
 $ make-initrd -k 5.12.6-cnl
+
 $ update-grub
+
 $ reboot
+
 $ cp sof-cnl.ri /lib/firmware/intel/sof/
+
 $ cp sof-cnl.ldc /lib/firmware/intel/sof/
+
 $ cp sof-glk-es8336-ssp0.tplg /lib/firmware/intel/sof-tplg/
