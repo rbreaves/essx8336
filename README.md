@@ -10,6 +10,7 @@ https://drive.google.com/drive/folders/1GJiZXnPsrxm78CJIA8dQC1UdtuDn77j0?usp=sha
 Just install the packages *.deb
 
 Install depends:
+
 $ apt-get install firmware-linux firmware-alsa-sof
 
 reboot and copy:
